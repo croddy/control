@@ -19,4 +19,6 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs-support_tasks', '3.1.0'
 mod 'puppetlabs-bash_task_helper', '1.0.0'
 mod 'puppetlabs-puppet_conf', '1.2.0'
-
+mod 'puppetlabs-cd4pe_jobs'
+mod 'puppetlabs-cd4pe'
+mod 'puppetlabs-docker'
